@@ -1,6 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+         //Khud karo pehle
          int candidate = 0;
         int balance = 0;
  
